@@ -40,10 +40,10 @@ Senior Machine Learning Engineer with deep expertise in speech and language syst
 
 ## EDUCATION
 
-**University of Southern California (USC)**  
+**University of Southern California, Los Angeles, CA**  
 *M.S. in Computer Science* — Dec 2015
 
-**Nitte Meenakshi Institute of Technology, Bangalore**  
+**Nitte Meenakshi Institute of Technology, Bangalore, India**  
 *B.E. in Computer Science* — May 2013
 
 ---
